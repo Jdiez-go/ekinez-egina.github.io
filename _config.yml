@@ -1,0 +1,8 @@
+title: Asociación para el Cambio desde la Base
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Queremos ser el canal que realiza las acciones a las que la administración no llega.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ekinez-egina.github.io" # the base hostname & protocol for your site
+twitter_username: your_twitter
+github_username:  Jdiez-go
